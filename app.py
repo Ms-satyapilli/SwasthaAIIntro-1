@@ -1,4 +1,3 @@
-from turtle import width
 import requests
 from PIL import Image
 import streamlit as st
