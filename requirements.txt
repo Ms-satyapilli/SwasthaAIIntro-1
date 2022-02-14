@@ -2,4 +2,4 @@ streamlit
 streamlit-lottie
 requests
 turtle
-PIL
+pillow
